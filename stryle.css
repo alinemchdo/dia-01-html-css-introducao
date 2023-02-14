@@ -1,0 +1,28 @@
+*{
+        margin: 0px;
+        padding: 0px;
+}
+
+.head {
+    background-color: black;
+    color: white;
+    width: 70%;
+    margin: auto;
+}
+.head img {
+    width="100px
+}
+.backhead {
+    background-color: black;
+}
+.head ul{
+    display: inline-block;
+    padding-left: 40%;
+    
+}
+.head li{
+    display: inline-block;
+    padding-right: 20px;
+    font-size: 15px;
+    text-align: right;
+}
