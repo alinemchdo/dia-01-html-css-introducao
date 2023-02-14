@@ -26,3 +26,38 @@
     font-size: 15px;
     text-align: right;
 }
+.premium{
+    background-color:rgb(255, 9, 193);
+    padding: 100px  0px;
+    color: white;
+}
+.premium-content{
+    margin: auto;
+    width: 70%;
+}
+.premium-content h1,h2{
+    padding-bottom: 20px;
+}
+.premium-content p{
+    padding-top: 20px;
+}
+.premium-bottons{
+    display: inline-block;
+    font-size: 11px;
+}
+.comece-agora{
+    background-color: black; 
+    color: white; 
+    width: 150px;
+    padding: 10px;
+    border-radius: 50px;
+    text-align: center;
+}
+.ver-agora{
+    color: black; 
+    width: 150px;
+    border: 2px solid white;
+    border-radius: 50px;
+    text-align: center;
+}
+
