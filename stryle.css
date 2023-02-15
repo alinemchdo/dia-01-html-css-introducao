@@ -74,5 +74,21 @@
     font-size: 15px;
     cursor: pointer;
 }
-
-
+.why{
+    text-align: center;
+}
+.why h2 {
+    margin-top: 50px;
+}
+.why div{
+    display: inline-block;
+    margin: 20px;
+    padding-bottom: 40px;
+}
+.why img{
+    width: 100px;
+    padding: 16px;
+    background-color: rgb(172, 172, 172);
+    border-radius: 100px;
+    padding-bottom: 10px;
+}
