@@ -92,3 +92,29 @@
     border-radius: 100px;
     padding-bottom: 10px;
 }
+.footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.footer h2{
+    padding-top: 30px;
+}
+.div-style{
+    border: 5px solid blueviolet;
+    width: 700px;
+    margin: auto;
+    border-radius: 15px;
+    padding: 20px;
+    
+}
+.div-style li{
+    list-style: none;
+}
+.div-style h3{
+    padding-bottom: 35px;
+}
+.botton{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
