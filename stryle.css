@@ -8,21 +8,25 @@
     color: white;
     width: 70%;
     margin: auto;
+    vertical-align: middle;
+    padding: 10px 0;
 }
 .head img {
-    width="100px
+    width="100px;
+    vertical-align: mi;
+    padding: 10px 0;
 }
 .backhead {
     background-color: black;
 }
 .head ul{
     display: inline-block;
-    padding-left: 40%;
+    padding-left: 50%;
     
 }
 .head li{
     display: inline-block;
-    padding-right: 20px;
+    padding-left: 20px;
     font-size: 15px;
     text-align: right;
 }
@@ -51,13 +55,24 @@
     width: 150px;
     padding: 10px;
     border-radius: 50px;
+    padding: 10px 30px;
     text-align: center;
+    border: 2px solid black;
+    font-size: 10px;
 }
 .ver-agora{
     color: black; 
     width: 150px;
     border: 2px solid white;
+    padding: 10px 30px;
     border-radius: 50px;
     text-align: center;
+    font-size: 10px;
 }
+.comece-agora:hover, .ver-agora:hover{
+    padding: 15px 35px;
+    font-size: 15px;
+    cursor: pointer;
+}
+
 
